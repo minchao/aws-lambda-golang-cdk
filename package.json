@@ -1,5 +1,5 @@
 {
-    "name": "aws-lambda-golang",
+    "name": "@minchao/aws-lambda-golang",
     "version": "0.1.1",
     "description": "CDK Construct for AWS Lambda in Golang",
     "main": "lib/index.js",
@@ -52,9 +52,9 @@
         "@aws-cdk/core": "^1.43.0",
         "constructs": "^3.0.3"
     },
-    "homepage": "https://github.com/RafalWilinski/aws-lambda-golang-cdk",
+    "homepage": "https://github.com/minchao/aws-lambda-golang-cdk",
     "repository": {
-        "url": "https://github.com/RafalWilinski/aws-lambda-golang-cdk.git",
+        "url": "https://github.com/minchao/aws-lambda-golang-cdk.git",
         "type": "git"
     },
     "jsii": {
